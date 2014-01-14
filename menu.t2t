@@ -6,16 +6,22 @@
 [Download download.html]
 [Wiki http://docs.salixos.org/wiki/Main_Page]
 [Forum http://forum.salixos.org/]
+[Blog http://salixos.blogspot.com]
 --------------------
 [Websearch http://start.salixos.org/]
 [Screenshots http://picasaweb.google.com/salix.artwork]
-[Mailing Lists http://docs.salixos.org/wiki/Mailing_lists]
+[Mailing Lists mailinglists.html]
 [Translate translate.html]
 [IRC/Jabber chat.html]
 --------------------
 [Sourceforge Project Page http://sourceforge.net/projects/salix/]
 [Package Submissions http://sourceforge.net/p/salix/packages/?source=navbar]
 [Bugtracker http://sourceforge.net/p/salix/tickets/]
+--------------------
+
+[[img/donate.png] donations.html]
+
+%%!include: ''paypal.htm''
 
 ''' </div>
 

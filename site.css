@@ -286,11 +286,10 @@ img
 #footer img
 	{
 	float		: left;
-	vertical-aling  : middle;
+	vertical-align  : middle;
 	margin : 5px;
 	border : 5px;
 	}
-}
 
 /******* Current menu item detection
 /
