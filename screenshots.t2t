@@ -1,0 +1,55 @@
+Screenshots
+
+
+
+% See those first lines at the top? They are the page heading and
+% subheading.
+
+%!includeconf: config.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% All the config is made, so the real contents begins now
+
+% The sidebar with the menu links are on a separated file, included now
+
+%!include: menu.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Put any content below this line
+
+== Salix Xfce 14.1 ==
+
+'''
+<a rel="xfce14.1" href="./screenshots/Salix-Xfce-14.1-00.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.1-00.png" /></a>
+<a rel="xfce14.1" href="./screenshots/Salix-Xfce-14.1-01.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.1-01.png" /></a>
+<a rel="xfce14.1" href="./screenshots/Salix-Xfce-14.1-02.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.1-02.png" /></a>
+<a rel="xfce14.1" href="./screenshots/Salix-Xfce-14.1-03.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.1-03.png" /></a>
+<a rel="xfce14.1" href="./screenshots/Salix-Xfce-14.1-04.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.1-04.png" /></a>
+<a rel="xfce14.1" href="./screenshots/Salix-Xfce-14.1-05.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.1-05.png" /></a>
+<a rel="xfce14.1" href="./screenshots/Salix-Xfce-14.1-06.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.1-06.png" /></a>
+<a rel="xfce14.1" href="./screenshots/Salix-Xfce-14.1-07.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.1-07.png" /></a>
+<a rel="xfce14.1" href="./screenshots/Salix-Xfce-14.1-08.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.1-08.png" /></a>
+<a rel="xfce14.1" href="./screenshots/Salix-Xfce-14.1-09.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.1-09.png" /></a>
+<a rel="xfce14.1" href="./screenshots/Salix-Xfce-14.1-10.png"><img alt="last" src="./screenshots/thumb_Salix-Xfce-14.1-10.png" /></a>
+'''
+
+== Salix System Tools and Applications ==
+
+'''
+<a rel="apps" href="./screenshots/tools-gtkclocksetup.png" title="System clock configuration"><img alt="" src="./screenshots/thumb_tools-gtkclocksetup.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkclocksetup-el.png" title="System clock configuration (Greek localization)"><img alt="" src="./screenshots/thumb_tools-gtkclocksetup-el.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkkeyboardsetup.png" title="Systemwide keyboard settings"><img alt="" src="./screenshots/thumb_tools-gtkkeyboardsetup.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtklocalesetup.png" title="System locale"><img alt="" src="./screenshots/thumb_tools-gtklocalesetup.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkservicesetup.png" title="System services"><img alt="" src="./screenshots/thumb_tools-gtkservicesetup.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkusersetup.png" title="User configuration"><img alt="" src="./screenshots/thumb_tools-gtkusersetup.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkusersetup-el.png" title="User configuration (Greek localization)"><img alt="" src="./screenshots/thumb_tools-gtkusersetup-el.png" /></a>
+<a rel="apps" href="./screenshots/tools-sourcery-main.png" title="Sourcery main window"><img alt="" src="./screenshots/thumb_tools-sourcery-main.png" /></a>
+<a rel="apps" href="./screenshots/tools-sourcery-info.png" title="Sourcery SlackBuild information window"><img alt="last" src="./screenshots/thumb_tools-sourcery-info.png" /></a>
+'''
+
+
+% The footer is an external file
+
+%!include: footer.t2t
